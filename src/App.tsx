@@ -194,8 +194,8 @@ function Home() {
         <li>Host enters 4 names to get 4 links for each Picker.</li>
         <li>Each person opens their link to see who they’re picking for. Enter the book name author and any notes like if it is available on KU etc.</li>
         <li>They send the Host back their Submission Code.</li>
-        <li>Host pastes all 4 codes and gets 4 Reader Links to send to each book club member + 30-day countdown start.</li>
-        <li>Host pastes all 4 codes and gets 4 Reader Links to send to each book club member + 30-day countdown start.</li>
+        <li>Host pastes all 4 codes and gets 4 Reader Links to send to each book club member</li>
+        <li>30-day countdown will begin, plenty of time for you dessy burgitas.</li>
       </ol>
       <Button onClick={() => setHash("/host")} style={{ width: "100%" }}>
         Start as Host
