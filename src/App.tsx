@@ -322,7 +322,7 @@ function Host() {
           </Button>
         </div>
 
-        <div style={{ fontSize: 12, opacity: 0.7, marginTop: 10 }}>
+        <div style={{ fontSize: 12, opacity: 0.7, marginTop: 10, display: "none" }}>
           Group ID: <code>{groupId}</code>
         </div>
       </Card>
