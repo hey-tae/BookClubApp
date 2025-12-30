@@ -288,7 +288,7 @@ function Host() {
 
   return (
     <>
-      <Card title="1) Enter the 4 names">
+      <Card title="1) Si and your Name?">
         <div style={{ display: "grid", gap: 10 }}>
           {names.map((val, i) => (
             <div key={i}>
